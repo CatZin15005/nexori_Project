@@ -1,7 +1,7 @@
 # nexori_Project
 
 
-<img width="1254" height="1254" alt="file_000000003fec720eb41e0f9f7c3247d0" src="https://github.com/user-attachments/assets/09f2dcde-435f-4fee-8676-7d08bf680d1f" />
+<img width="500" height="500" alt="file_000000003fec720eb41e0f9f7c3247d0" src="https://github.com/user-attachments/assets/09f2dcde-435f-4fee-8676-7d08bf680d1f" />
 
 Nexori é um aplicativo Desenvolvido Totalmente pensado pra pessoas com Transtorno do Déficit de Atenção com Hiperatividade (TDAH) 
 
@@ -20,15 +20,15 @@ Nexori conta com uma interface customizavel e Fluidacom tons pastel e claros, co
 
 veja alguns prints do app
 
-<img width="1080" height="2277" alt="Screenshot_20260713_200158_NEXORI" src="https://github.com/user-attachments/assets/232ce45a-94f9-4416-ac8a-a558d3d7640c" />
+<img width="250" height="490" alt="Screenshot_20260713_200158_NEXORI" src="https://github.com/user-attachments/assets/232ce45a-94f9-4416-ac8a-a558d3d7640c" />
 
 
-<img width="1080" height="2243" alt="Screenshot_20260713_200228_NEXORI" src="https://github.com/user-attachments/assets/45685bfe-c9bb-46bc-ba8d-e3506d722c0a" />
+<img width="250" height="490" alt="Screenshot_20260713_200228_NEXORI" src="https://github.com/user-attachments/assets/45685bfe-c9bb-46bc-ba8d-e3506d722c0a" />
 
 
-<img width="1080" height="2209" alt="Screenshot_20260713_200232_NEXORI" src="https://github.com/user-attachments/assets/a634bef5-2561-4c89-be1f-3014eee3585f" />
+<img width="250" height="490" alt="Screenshot_20260713_200232_NEXORI" src="https://github.com/user-attachments/assets/a634bef5-2561-4c89-be1f-3014eee3585f" />
 
 
-<img width="1080" height="2230" alt="Screenshot_20260713_200251_NEXORI" src="https://github.com/user-attachments/assets/d9c5fd70-bce4-4361-aaf0-33852558a3ac" />
+<img width="250" height="490" alt="Screenshot_20260713_200251_NEXORI" src="https://github.com/user-attachments/assets/d9c5fd70-bce4-4361-aaf0-33852558a3ac" />
 
 
