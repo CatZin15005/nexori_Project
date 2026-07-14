@@ -16,9 +16,9 @@ Tarefas:
 definidas pelo proprio usuario pra lembrar de realizar uma tarefa especifica por meio de notificaçoes, o usuario pode definir e organizar todas as notificaçoes por meio de nives: (Baixa), (Média), (Alta) 
 
 
-Nexori conta com uma interface customizavel e Fluidacom tons pastel e claros, contando com tema claro e escuro
+Nexori conta com uma interface customizavel e Fluida com tons claros, contando com tema claro e escuro
 
-veja alguns prints do app
+veja alguns prints do app:
 
 <img width="250" height="490" alt="Screenshot_20260713_200158_NEXORI" src="https://github.com/user-attachments/assets/232ce45a-94f9-4416-ac8a-a558d3d7640c" />
 
